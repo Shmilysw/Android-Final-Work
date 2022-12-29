@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">天气预报</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    修改刚进入时的提示音-->
+    <string-array name="welcome">
+        <item>你好，我叫小思，是一个智能机器人！</item>
+        <!--添加开场语句-->
+    </string-array>
+
+</resources>

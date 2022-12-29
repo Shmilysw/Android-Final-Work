@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/drawable/btn_send_normal.xml" value="0.1" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/drawable/frag_bg.xml" value="0.1935" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/drawable/hotbg.xml" value="0.2345" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/drawable/ic_launcher_background.xml" value="0.234" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/drawable/image_shape.xml" value="0.234" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/drawable/searchbg.xml" value="0.234" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/layout/activity_city_manager.xml" value="0.264" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/layout/activity_delete_city.xml" value="0.4036458333333333" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/layout/activity_more.xml" value="0.264" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/layout/activity_my_robot.xml" value="0.264" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/layout/activity_search_city.xml" value="0.3890625" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/layout/chatting_left_item.xml" value="0.1" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/layout/chatting_right_item.xml" value="0.4036458333333333" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/layout/fragment_city_weather.xml" value="0.264" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/layout/item_city_manager.xml" value="0.40260416666666665" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/layout/item_deletecity.xml" value="0.4" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/layout/item_hotcity.xml" value="0.40260416666666665" />
+        <entry key="..\:/Android_project/LastHomeWork/Forecast/app/src/main/res/layout/item_main_center.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
